@@ -15,7 +15,7 @@ The goal of this project is to analyze business sales data to identify:
 This analysis helps businesses make data-driven decisions to improve revenue and profitability.
 
 🛠 Tools & Technologies Used
-Power BI– Dashboard & visualization
+Power BI– Dashboard & Jupyter Notebook
 * **Microsoft Excel / CSV** – Data storage & preprocessing
 * **DAX** – KPI calculations
 
